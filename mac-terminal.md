@@ -10,10 +10,11 @@ brew install font-hack-nerd-font
 
 # cd ~ && touch .zshrc
 clear
+cat ~/.zshrc
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 alias ls=lsd
 
-# for java, 
+# for java
 export PATH="$PATH:$HOME/.rvm/bin"
 ```

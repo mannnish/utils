@@ -1,0 +1,3 @@
+- under source click on plus > macOs screen capture
+- this should add the same in audio mixer as well
+- and now jus start recording
