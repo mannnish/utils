@@ -18,3 +18,10 @@ alias ls=lsd
 # for java
 export PATH="$PATH:$HOME/.rvm/bin"
 ```
+
+### tools
+- pearcleaner for better application management
+- alttab for a better alttab
+  - open its setting and change it from option-tab to command-tab
+  - you can also change the switching preview
+  - `brew install --cask alt-tab` 
