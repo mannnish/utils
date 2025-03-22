@@ -25,3 +25,8 @@ export PATH="$PATH:$HOME/.rvm/bin"
   - open its setting and change it from option-tab to command-tab
   - you can also change the switching preview
   - `brew install --cask alt-tab` 
+
+
+### Settings
+- Finder default view
+  - To set a default sorting method in macOS Finder, navigate to a folder, choose your preferred view (Icon, List, Column, or Gallery), then use "View > Show View Options" to select your desired sort order and grouping, and click "Use as Defaults". 
